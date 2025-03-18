@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -Og CMakeFiles/dacuino.dir/src/main.c.o -o dacuino  -Wl,-rpath,/home/blitpxl/Documents/dev/other/dacuino/lib /home/blitpxl/Documents/dev/other/dacuino/lib/libbass.so
