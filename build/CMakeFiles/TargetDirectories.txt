@@ -1,3 +1,0 @@
-/home/blitpxl/Documents/dev/other/dacuino/build/CMakeFiles/dacuino.dir
-/home/blitpxl/Documents/dev/other/dacuino/build/CMakeFiles/edit_cache.dir
-/home/blitpxl/Documents/dev/other/dacuino/build/CMakeFiles/rebuild_cache.dir
