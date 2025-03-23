@@ -1,1 +1,0 @@
-/usr/bin/cc -Wall -g -Og CMakeFiles/dacuino.dir/src/decoder.c.o -o dacuino  -Wl,-rpath,/home/blitpxl/Documents/dev/other/dacuino/lib /home/blitpxl/Documents/dev/other/dacuino/lib/libbass.so /home/blitpxl/Documents/dev/other/dacuino/lib/libbassmix.so
