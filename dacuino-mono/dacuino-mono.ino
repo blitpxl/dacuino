@@ -38,8 +38,9 @@ void setup() {
 }
 
 ISR(TIMER3_COMPA_vect) {
-  OCR1A = front_buffer[sample_pos++];
-  OCR1B = front_buffer[sample_pos++];
+  OCR1A = front_buffer[sample_pos];
+  OCR1B = front_buffer[sample_pos];
+  sample_pos++;
   if (sample_pos >= BUFFER_SIZE) {
     sample_pos = 0;
     if (buffer_ready) {
