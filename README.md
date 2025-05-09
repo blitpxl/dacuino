@@ -1,3 +1,7 @@
+Please consider donating if you like this project, any amount would be appreciated.
+
+[Kevin's Paypal](https://www.paypal.com/paypalme/vinrato)
+
 # What
 Dacuino allows you to turn your arduino into a USB-DAC that can play audio streamed from your PC/Laptop.
 
