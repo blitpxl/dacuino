@@ -29,8 +29,12 @@ The audio quality is severely limited by the memory size of the 32U4 (2.5KB), wh
 
 Sample rates:
 
-8 bit stereo: 38khz \
+8 bit stereo: 37.5khz \
 8 bit mono: 62khz
+
+Sound demo:
+
+[![Video Title](https://img.youtube.com/vi/9xhn-_O9DL0/0.jpg)](https://www.youtube.com/watch?v=9xhn-_O9DL0)
 
 # Supported arduino devices
 Only Arduino with 32U4 is supported for now. It should work with 328p too by modifying the timers, though it may yield lower sample rate.
